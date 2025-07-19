@@ -19,6 +19,6 @@ This task helped me practice core frontend development principles and sharpen my
 
 Watch the demo of the responsive stock market landing page:
 
-[Click to watch demo](./demo.mp4)
+[Click to watch demo](./Demo.mp4)
 
 ## 📁 Folder Structure
