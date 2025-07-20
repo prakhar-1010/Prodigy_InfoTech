@@ -1,0 +1,89 @@
+/* style.css */
+body {
+  margin: 0;
+  font-family: 'Orbitron', sans-serif;
+  background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
+  color: #f4f4f4;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  overflow: hidden;
+}
+
+.container {
+  text-align: center;
+  background: rgba(255, 255, 255, 0.05);
+  padding: 50px;
+  border-radius: 25px;
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.5);
+  backdrop-filter: blur(15px);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+h1 {
+  font-size: 2.8rem;
+  margin-bottom: 25px;
+  color: #ffffff;
+  text-shadow: 0 1px 5px rgba(0, 0, 0, 0.5);
+}
+
+#display {
+  font-size: 2.2rem;
+  margin: 25px 0;
+  padding: 15px 40px;
+  background: rgba(255, 255, 255, 0.1);
+  border: 2px solid #66fcf1;
+  border-radius: 15px;
+  box-shadow: 0 0 15px rgba(102, 252, 241, 0.4);
+  display: inline-block;
+  font-family: monospace;
+  color: #66fcf1;
+}
+
+.buttons button {
+  padding: 14px 22px;
+  margin: 10px;
+  font-size: 1rem;
+  font-weight: bold;
+  border: 2px solid #45a29e;
+  border-radius: 10px;
+  background-color: transparent;
+  color: #66fcf1;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.buttons button:hover {
+  background-color: #45a29e;
+  color: #0b0c10;
+  box-shadow: 0 0 15px rgba(102, 252, 241, 0.7);
+}
+
+.laps {
+  margin-top: 35px;
+}
+
+.laps h2 {
+  margin-bottom: 15px;
+  color: #66fcf1;
+}
+
+#lap-list {
+  list-style: none;
+  padding: 0;
+  max-height: 200px;
+  overflow-y: auto;
+}
+
+#lap-list li {
+  padding: 8px;
+  background: rgba(255, 255, 255, 0.1);
+  margin-bottom: 6px;
+  border-radius: 5px;
+  border-left: 4px solid #66fcf1;
+  color: #f4f4f4;
+  text-align: left;
+  font-family: monospace;
+}
+
