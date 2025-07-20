@@ -26,7 +26,7 @@ It is a fully functional, responsive, and visually appealing **Stopwatch App**, 
 
 ## 📸 Demo
 
-![Stopwatch Preview](StopWatch.jpg)
+![Stopwatch Preview](StopWatch.png)
 > You can also [🎥 watch the demo video here](./Demo_2.mp4)
 
 ---
