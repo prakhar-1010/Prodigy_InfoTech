@@ -71,5 +71,8 @@ A weather app that fetches real-time weather data using OpenWeatherMap API.
    git clone https://github.com/prakhar-1010/Prodigy_InfoTech.git
    cd Prodigy_InfoTech
 
-📬 Connect With Me
-💼 LinkedIn: linkedin.com/in/prakhar-1010
+## 🔗 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/prakhar-pratap-singh-b56127330/)
+- [GitHub](https://github.com/prakhar-1010)
+
+---
