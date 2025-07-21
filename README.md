@@ -70,3 +70,6 @@ A weather app that fetches real-time weather data using OpenWeatherMap API.
    ```bash
    git clone https://github.com/prakhar-1010/Prodigy_InfoTech.git
    cd Prodigy_InfoTech
+
+📬 Connect With Me
+💼 LinkedIn: linkedin.com/in/prakhar-1010
